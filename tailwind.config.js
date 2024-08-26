@@ -4,9 +4,11 @@ module.exports = {
     './src/**/*.{html,js,jsx,ts,tsx,vue,php}',
     './index.html',
   ],
+  darkMode: "media",
   theme: {
     extend: {},
   },
   plugins: [],
+
 }
 
